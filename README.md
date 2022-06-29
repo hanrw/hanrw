@@ -8,6 +8,7 @@
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=0095D5)
 ![](https://img.shields.io/badge/Code-Scala-informational?style=flat&logo=kotlin&logoColor=white&color=0095D5)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=kotlin&logoColor=white&color=0095D5)
+![](https://img.shields.io/badge/Code-TDD-informational?style=flat&logo=kotlin&logoColor=white&color=0095D5)
 ![](https://img.shields.io/badge/Library-Spring-informational?style=flat&logo=spring&logoColor=white&color=336791)
 ![](https://img.shields.io/badge/Tools-Elasticsearch-informational?style=flat&logo=elastic&logoColor=white&color=336791)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
